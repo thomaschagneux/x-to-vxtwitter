@@ -1,0 +1,12 @@
+{
+    "name": "X to vxtwitter",
+    "icons": [
+      {
+        "src": "img/x-50.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "/?source=pwa",
+    "display": "standalone"
+  }
