@@ -2,12 +2,12 @@
     "name": "X to vxtwitter",
     "icons": [
       {
-        "src": "img/icon-192.png",
+        "src": "img/twitter-192.png",
         "type": "image/png",
         "sizes": "192x192"
       },
       {
-        "src": "img/icon-512.png",
+        "src": "img/twitter-512.png",
         "type": "image/png",
         "sizes": "512x512"
       }
